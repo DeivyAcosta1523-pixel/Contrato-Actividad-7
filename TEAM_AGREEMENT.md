@@ -5,7 +5,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Nombre del Aprendiz 1] | Líder (Arquitecto) | `Deivy Acosta` |
+| [Deivy Yesid Acosta] | Líder (Arquitecto) | `Paulaforero0203@gmail.com` |
 | [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 
